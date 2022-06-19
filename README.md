@@ -1,6 +1,6 @@
 <img width = "100%" src = "https://user-images.githubusercontent.com/105447558/174500034-04b6c07f-5d23-403a-b003-e554e845c3b2.png">
 
-# Olá <img width="2%" alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, eu sou a Paula.
+# Olá <img width="4%" alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, eu sou a Paula.
 
 <div align = center> 
   <!-- Quadro de stars-->
