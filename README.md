@@ -14,7 +14,6 @@
 
 <!-- Icones de linguagens que eu uso-->
 ## Linguagens em aprendizado
-
 <!--Icone linguagem C-->
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
