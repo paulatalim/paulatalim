@@ -13,6 +13,7 @@
 ##
 
 <!-- Icones de linguagens que eu uso-->
+## Linguagens em aprendizado
 
 <!--Icone linguagem C-->
 <div style = "display: inline_block"> <br>
