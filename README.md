@@ -18,3 +18,6 @@
 <!--Icone linguagem C++ -->
   <img align="center" alt = "Icone da linguagem de programcao C mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
+
+![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
+ 
