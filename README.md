@@ -1,4 +1,8 @@
-# Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, eu sou a Paula.
+<div style = "display: inline_block" align = center>
+  # Olá 
+  <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
+  # , eu sou a Paula.
+</div>
 
 <div align = center> 
   <!-- Quadro de stars-->
