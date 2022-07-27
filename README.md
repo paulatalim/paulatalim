@@ -5,9 +5,11 @@
 <h3 align = "center"> Estudante de Engenharia de Computação a procura de novas experiências</h3>
 
 <!--Breve descricao sobre minha situacao-->
-- Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas.
-- A procura do máximo de experiências possíveis para descobrir qual especialidade que tenho mais afinidade.
-- Entre em contato comigo no [Linkedin](www.linkedin.com/in/paula-talim-693120246) ou em pauls.talim@gmail.com.
+- 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas.
+
+- 📙 - A procura do máximo de experiências possíveis para descobrir qual especialidade que tenho mais afinidade.
+
+- 💬 - Entre em contato comigo no [Linkedin](www.linkedin.com/in/paula-talim-693120246) ou em pauls.talim@gmail.com.
 
 <div align = center> 
   <!-- Quadro de stars-->
@@ -20,9 +22,9 @@
 <!-- Icones de linguagens que eu uso-->
 ## Minhas Skills
 
-<div style = "display: inline_block" align = center> <br>
-  <img align = "center" alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt = "Icone da linguagem de programcao C mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<div style = "display: inline_block" align = left> <br>
+  <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt = "Icone da linguagem de programcao C mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 </div>
 
