@@ -1,9 +1,9 @@
   <h1 align = "center"> Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" > , eu sou a Paula. </h1>
   <h3 align = "center"> Estudante de Engenharia de Computação a procura de novas experiencias</h3>
 
-  - Atualmente sou Monitora de Algoritmos e Estrutura de Dados na PUC Minas.
-  - A procura do máximo de experiencias possiveis, para descobrir a especialidade que tenho mais afinidade.
-  - Entre em contato comigo no Linkedin ou email
+  - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas.
+  - A procura do máximo de experiencias possiveis para descobrir qual especialidade que tenho mais afinidade.
+  - Entre em contato comigo no [Linkedin](www.linkedin.com/in/paula-talim-693120246) ou email
 
 <div align = center> 
   <!-- Quadro de stars-->
