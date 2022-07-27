@@ -5,9 +5,11 @@
 <h3 align = "center"> Estudante de Engenharia de Computação a procura de novas experiências</h3>
 
 <!--Breve descricao sobre minha situacao-->
-- 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas.
+- 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas;
 
-- 📙 - A procura do máximo de experiências possíveis para descobrir qual especialidade que tenho mais afinidade.
+- ❤ - Amante de tecnologias em duvida de qual area gosta mais;
+
+- 📙 - A procura do máximo de experiências possíveis para descobrir qual especialidade tenho mais afinidade;
 
 - 💬 - Entre em contato comigo no [Linkedin](www.linkedin.com/in/paula-talim-693120246) ou em pauls.talim@gmail.com.
 
