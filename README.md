@@ -1,4 +1,9 @@
-  # Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" > , eu sou a Paula.
+  <h1 align = "center"> Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" > , eu sou a Paula. </h1>
+  <h3 align = "center"> Sou uma estudante de Engenharia de Computação a procura de novas experiencias</h3>
+
+  - Atualmente sou Monitora de Algoritmos e Estrutura de Dados na PUC Minas.
+  - Estou a procura do maximo de experiencias possiveis, para descobrir a especialidade que tenho mais afinidade
+  - Entre em contato comigo no Linkedin ou 
 
 <div align = center> 
   <!-- Quadro de stars-->
