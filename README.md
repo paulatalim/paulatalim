@@ -4,7 +4,7 @@
 <!--Sub-titulo-->
 <h3 align = "center"> Estudante de Engenharia de Computação a procura de novas experiências</h3>
 
-<!--Breve descricao sobre minha situacao-->
+<!--Breve descricao sobre mim-->
 - 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas;
 
 - ❤ - Amante de tecnologias em duvida de qual area gosta mais;
@@ -13,6 +13,7 @@
 
 - 💬 - Entre em contato comigo no [Linkedin](www.linkedin.com/in/paula-talim-693120246) ou em pauls.talim@gmail.com.
 
+<!--Quadros de atividades-->
 <div align = center> 
   <!-- Quadro de stars-->
   <a href = "https://github.com/Paula-Talim">
@@ -24,7 +25,7 @@
 <!-- Icones de linguagens que eu uso-->
 ## Minhas Skills
 
-<div style = "display: inline_block" align = left> <br>
+<div style = "display: inline_block" align = "left"> <br>
   <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img alt = "Icone da linguagem de programcao C mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
