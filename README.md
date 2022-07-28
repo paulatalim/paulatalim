@@ -2,7 +2,7 @@
 <h1 align = "center"> Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" > , eu sou a Paula. </h1>
 
 <!--Sub-titulo-->
-<h3 align = "center">Estudante de Engenharia de Computação</h3>
+<h3 align = "center">Estudante do 2º período de Engenharia de Computação da PUC Minas.</h3>
 
 <!--Breve descricao sobre mim-->
 - 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas;
