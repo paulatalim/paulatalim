@@ -16,13 +16,9 @@
 <!-- Icones de linguagens que eu uso-->
 ## Minhas Skills
 
-<div style = "display: flex; flex: row" align = "left"> <br>
-  <div>
-    <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
-  <div>
-    <img alt = "Icone da linguagem de programcao C++ mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  </div>
+<div style = "display: flex" align = "left"> <br>
+  <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt = "Icone da linguagem de programcao C++ mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 <!--Quadros de atividades-->
