@@ -16,7 +16,7 @@
 <!-- Icones de linguagens que eu uso-->
 ## Minhas Skills
 
-<div style = "display: flex" align = "left"> <br>
+<div style = "display: flex; flex: row" align = "left"> <br>
   <div>
     <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
