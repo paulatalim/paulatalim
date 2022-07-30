@@ -11,7 +11,7 @@
 
 - 📙 - A procura do máximo de experiências possíveis para descobrir qual especialidade tenho mais afinidade;
 
-- 💬 - Entre em contato comigo no [Linkedin](www.linkedin.com/in/paula-talim-693120246) ou em pauls.talim@gmail.com.
+- 💬 - Entre em contato comigo no [Linkedin](https://www.linkedin.com/in/paula-talim-693120246/) ou em pauls.talim@gmail.com.
 
 <!--Quadros de atividades-->
 <div align = center> 
