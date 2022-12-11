@@ -7,7 +7,7 @@
 <!--Breve descricao sobre mim-->
 - 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas;
 
-- ❤ - Amante de tecnologias em duvida de qual area gosta mais;
+- ❤ - Amante de tecnologias em dúvida de qual área gosta mais;
 
 - 📙 - A procura do máximo de experiências possíveis para descobrir qual especialidade tenho mais afinidade;
 
@@ -31,9 +31,10 @@
 <div align = center> 
   <!-- Quadro de stars-->
   <a href = "https://github.com/Paula-Talim">
-  <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=Paula-Talim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- Quadro de linguagens mais usadas -->
-  <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=Paula-Talim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <!-- Quadro de linguagens mais usadas -->
+    <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 <!-- Animacao Cobrinha -->
