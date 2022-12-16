@@ -1,7 +1,7 @@
-![cabecalho](https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=header)
+![cabecalho](https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=header)
 
 <!-- Titulo -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=35&pause=1000&color=D93A7C&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=35&pause=1000&color=ff6fab&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 #
 
@@ -44,4 +44,4 @@
 <!-- Animacao Cobrinha -->
 ![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
 
-![Rodape](https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=footer)
+![Rodape](https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer)
