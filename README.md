@@ -1,4 +1,4 @@
-![cabecalho](https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=header)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=header"/>
 
 <!-- Titulo -->
 <div align = "center">
@@ -47,4 +47,4 @@
 <!-- Animacao Cobrinha -->
 ![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
 
-![Rodape](https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer"/>
