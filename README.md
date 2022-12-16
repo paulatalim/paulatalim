@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 <!--Titulo-->
 <h1 align = "center"> Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" > , eu sou a Paula. </h1>
 
@@ -39,3 +41,5 @@
 
 <!-- Animacao Cobrinha -->
 ![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
