@@ -1,7 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+![cabecalho](https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=header)
 
-<!--Titulo-->
-<h1 align = "center"> Olá <img width=40 alt = "gif de uma mao acenando" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" > , eu sou a Paula. </h1>
+<!-- Titulo -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=35&pause=1000&color=D93A7C&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+
+#
 
 <!--Sub-titulo-->
 <h3 align = "center">Estudante do 2º período de Engenharia de Computação da PUC Minas.</h3>
@@ -42,4 +44,4 @@
 <!-- Animacao Cobrinha -->
 ![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+![Rodape](https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=footer)
