@@ -1,7 +1,10 @@
 ![cabecalho](https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=header)
 
 <!-- Titulo -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=35&pause=1000&color=ff6fab&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+<div align = "center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=35&pause=435&color=ff6fab&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+</div> 
 
 #
 
@@ -20,7 +23,7 @@
 <!-- Icones de linguagens que eu uso-->
 ## Minhas Skills 🛠
 
-<div style = "display: flex" align = "left">
+<div style = "display: flex, align = left">
   <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img alt = "Icone da linguagem de programcao C++ mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
