@@ -3,7 +3,7 @@
 <!-- Titulo -->
 <div align = "center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=35&pause=435&color=ff6fab&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=35&pause=435&color=ff6fab&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29)
 </div> 
 
 #
@@ -35,13 +35,11 @@
 ##
 
 <!--Quadros de atividades-->
-<div align = center> 
+<div align = center style="disply: flex"> 
   <!-- Quadro de stars-->
-  <a href = "https://github.com/Paula-Talim">
-    <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=Paula-Talim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <!-- Quadro de linguagens mais usadas -->
-    <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=Paula-Talim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- Quadro de linguagens mais usadas -->
+  <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!-- Animacao Cobrinha -->
