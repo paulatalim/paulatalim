@@ -31,17 +31,15 @@
 ##
 
 <!-- Icones de linguagens que eu uso-->
-<div style="display: flex; flex-direction:row; aling-itens: center; justify-content: center; gap:20px"> 
-  <img width="40%" style="border-radius: 10px" src="./code.gif">
+<div style="display: inline_block"> 
+  <img width="30%" align="left style="border-radius: 10px" src="./code.gif">
+  <h2 align="center"> Minhas Skills 🛠 </h2>
+  <img align="center" alt = "Icone da linguagem de programcao C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt = "Icone da linguagem de programcao C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt = "Icone da linguagem de programcao HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt = "Icone da linguagem de programcao CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt = "Icone da linguagem de programcao Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-  <div align = "center">
-    <h2> Minhas Skills 🛠 </h2>
-    <img alt = "Icone da linguagem de programcao C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img alt = "Icone da linguagem de programcao C++ mais mais" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  </div>
 </div>
 
 <br>
