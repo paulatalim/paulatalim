@@ -32,13 +32,13 @@
 
 <!-- Icones de linguagens que eu uso-->
 <div align="center" style="display: inline_block"> 
-  <img align="left" alt="gif de uma pessoa codando" width="50%" style="border-radius: 10px" src="./code.gif">
+  <img align="left" alt="gif de uma pessoa codando" width="40%" style="border-radius: 10px" src="./code.gif">
   <h1 align="center"> Minhas Skills 🛠 </h1>
-  <img align="center" alt = "Icone da linguagem C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt = "Icone da linguagem C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt = "Icone da linguagem HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt = "Icone da linguagem CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt = "Icone da linguagem Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Icone da linguagem C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Icone da linguagem C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="Icone da linguagem HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Icone da linguagem CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Icone da linguagem Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 </div>
 
