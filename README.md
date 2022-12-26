@@ -30,8 +30,6 @@
   <img alt="quadro de linguagens mais usadas" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
-
 <!-- Icones de linguagens que eu uso-->
 <div align="center">
   <h1 align="center"> Minhas Skills 🛠 </h1>
