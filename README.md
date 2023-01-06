@@ -35,10 +35,11 @@
   <h1 align="center"> Minhas Skills 🛠 </h1>
   <img align="center" alt="Icone da linguagem C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Icone da linguagem C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="Icone da linguagem Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Icone da linguagem HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Icone da linguagem CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Icone da linguagem Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-
+  <img align="center" alt="Icone da linguagem JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
   </br>
 
   <!-- Animacao Cobrinha -->
