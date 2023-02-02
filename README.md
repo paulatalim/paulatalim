@@ -9,10 +9,10 @@
 #
 
 <!--Sub-titulo-->
-<h3 align="center"> <font color="#ffb5d4"> Estudante do 2º período de Engenharia de Computação da PUC Minas.</font></h3>
+<h3 align="center"> <font color="#ffb5d4"> Estudante do 3º período de Engenharia de Computação da PUC Minas.</font></h3>
 
 <!--Breve descricao sobre mim-->
-- 👩‍🎓 - Atualmente sou Monitora de Algoritmos e Estrutura de Dados l na PUC Minas;
+- 👩‍🎓 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
 
 - ❤ - Amante de tecnologias em dúvida de qual área gosta mais;
 
