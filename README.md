@@ -22,13 +22,13 @@
 
 ##
 
-<!--Quadros de atividades
+<!--Quadros de atividades-->
 <div align = center style="disply: flex"> 
-  <!-- Quadro de stars
+  <!-- Quadro de stars -->
   <img alt="quadro de stars" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=Paula-Talim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- Quadro de linguagens mais usadas
+  <!-- Quadro de linguagens mais usadas -->
   <img alt="quadro de linguagens mais usadas" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
-</div>-->
+</div>
 
 <!-- Icones de linguagens que eu uso-->
 <div align="center">
