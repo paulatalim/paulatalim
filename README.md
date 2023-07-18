@@ -43,7 +43,7 @@
   </br>
 
   <!-- Animacao Cobrinha -->
-   ![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
+   <!--![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)-->
 
 </div>
 
