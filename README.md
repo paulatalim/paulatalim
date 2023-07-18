@@ -25,9 +25,9 @@
 <!--Quadros de atividades-->
 <div align = center style="disply: flex"> 
   <!-- Quadro de stars -->
-  <img alt="quadro de stars" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=Paula-Talim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img alt="quadro de stars" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <!-- Quadro de linguagens mais usadas -->
-  <img alt="quadro de linguagens mais usadas" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Talim&layout=compact&langs_count=7&theme=radical"/>
+  <img alt="quadro de linguagens mais usadas" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!-- Icones de linguagens que eu uso-->
@@ -52,7 +52,7 @@
 <br>
 
 <!-- Animacao Cobrinha -->
-<!-- ![Snake animation](https://github.com/paulatalim/paulatalim/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/paulatalim/paulatalim/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Rodapé -->
 <img alt="rodape" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer"/>
