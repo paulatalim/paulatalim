@@ -52,7 +52,7 @@
 <br>
 
 <!-- Animacao Cobrinha -->
-![Snake animation](https://github.com/paulatalim/paulatalim/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/paulatalim/paulatalim/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Rodapé -->
 <img alt="rodape" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer"/>
