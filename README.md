@@ -39,12 +39,20 @@
   <img align="center" alt="Icone da linguagem HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Icone da linguagem CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Icone da linguagem JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
-  </br>
 
-  <!-- Animacao Cobrinha -->
-   ![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+<!-- Icones linguagem de programcao em aprendizagem -->
+# Skills em aprendizagem
+
+<img alt="Icone da linguagem Microsoft SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
 </div>
 
+<br>
+
+<!-- Animacao Cobrinha -->
+![Snake animation](https://github.com/Paula-Talim/Paula-Talim/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Rodapé -->
 <img alt="rodape" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer"/>
