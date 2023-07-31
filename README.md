@@ -25,28 +25,15 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 ##
 
 <!--Quadros de atividades -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&count_private=true)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/paulatalim/github-readme-stats#gh-dark-mode-only)
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=default#gh-light-mode-only)
-
-<!-- Quadro de stars -->
 <div align="center">
   <a href="https://github.com/paulatalim">
-    <img loading="lazy" height="180em" alt="quadro de stars" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-    <img loading="lazy" height="180em" alt="quadro de stars" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-light-mode-only"/>
+    <!-- Quadro de stats -->
+    <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
+    <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-light-mode-only"/>
     <!-- Quadro de linguagens mais usadas -->
     <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only"/>
-    <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-light-mode-only"/>
-
-    
+    <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-light-mode-only"/>    
   </a>
-</div>
-
-<div>
-  <a href="https://github.com/paulatalim">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <!-- Icones de linguagens que eu uso -->
