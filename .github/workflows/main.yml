@@ -26,11 +26,10 @@ jobs:
           github_user_name: paulatalim
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=pink&color_dots=#c996f2,#b876ee,#a856ea,#9836e6,#871bde
+            dist/github-contribution-grid-snake-dark.svg?color_snake=pink&color_dots=#F0C8FF,#DC96FF,#C864FF,#B432FF,#A000FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
