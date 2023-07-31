@@ -25,12 +25,22 @@
 <!--Quadros de atividades -->
 <div align="center">
   <a href="https://github.com/paulatalim">
-    <!-- Quadro de stats -->
-    <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-    <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true#gh-light-mode-only"/>
+   <!-- Quadro de stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true#gh-light-mode-only">
+    <img oading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  </picture>
+    <!-- <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
+    <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true#gh-light-mode-only"/> -->
     <!-- Quadro de linguagens mais usadas -->
-    <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only"/>
-    <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=buefy#gh-light-mode-only"/>    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=buefy#gh-light-mode-only">
+    <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical"/>
+  </picture>
+    <!-- <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only"/>
+    <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=buefy#gh-light-mode-only"/>     -->
   </a>
 </div>
 
