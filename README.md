@@ -20,8 +20,6 @@
 
 - 💬 - Entre em contato comigo no [Linkedin](https://www.linkedin.com/in/paulatalim/).
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 ##
 
 <!--Quadros de atividades -->
