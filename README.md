@@ -12,13 +12,13 @@
 <h3 align="center"> <font color="#ffb5d4"> Estudante no 4º período de Engenharia de Computação da PUC Minas.</font></h3>
 
 <!--Breve descricao sobre mim -->
-- 👩‍🎓 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
+- 👩‍🏫 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
 
-- ❤ - Amante de tecnologias em dúvida de qual área gosta mais;
+- 📚 - Já estudei as matérias de Desenvolvimento de Interfaces WEB e Algoritmos e Estrutura de Dados l, ll e lll;
 
-- 📙 - A procura do máximo de experiências possíveis para descobrir qual especialidade tenho mais afinidade;
+- 📕 - Atualmente estou me aprofundando em Java e aprendendo Banco de Dados;
 
-- 💬 - Entre em contato comigo no [Linkedin](https://www.linkedin.com/in/paulatalim/).
+- 🎯 - Estou a procura de experiência profissional na área de desenvolvimento.
 
 ##
 
