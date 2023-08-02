@@ -40,13 +40,13 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=false&count_private=true#gh-dark-mode-only"
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
       />
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true#gh-light-mode-only"
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
       />
-      <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </picture>
     <!-- Quadro de linguagens mais usadas -->
     <picture>
