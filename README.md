@@ -9,7 +9,7 @@
 #
 
 <!--Sub-titulo -->
-<h3 align="center"> <font color="#ffb5d4"> Estudante no 4º período de Engenharia de Computação da PUC Minas.</font></h3>
+<h3 align="center"> Estudante no 4º período de Engenharia de Computação da PUC Minas.</h3>
 
 <!--Breve descricao sobre mim -->
 - 👩‍🏫 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
