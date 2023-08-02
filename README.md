@@ -38,14 +38,26 @@
   <a href="https://github.com/paulatalim">
     <!-- Quadro de stats -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true#gh-dark-mode-only">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true#gh-light-mode-only">
-      <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=false&count_private=true#gh-dark-mode-only"
+      />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true#gh-light-mode-only"
+        media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
+      />
+      <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </picture>
     <!-- Quadro de linguagens mais usadas -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=buefy#gh-light-mode-only">
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only"
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=buefy#gh-light-mode-only"
+        media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)" 
+      />
       <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical"/>
     </picture>
   </a>
@@ -61,9 +73,9 @@
 
 <!-- Animacao Cobrinha  -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulatalim/paulatalim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulatalim/paulatalim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulatalim/paulatalim/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulatalim/paulatalim/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/paulatalim/paulatalim/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulatalim/paulatalim/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <!-- Rodapé -->
