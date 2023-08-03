@@ -26,7 +26,7 @@ jobs:
           github_user_name: paulatalim
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF079F&color_dots=#161B22,#CCD9D9,#B3E6E6,#8FF2F2,#00FFFF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF079F&color_dots=#161B22,#105459,#0B8D91,#06C6C8,#00FFFF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
