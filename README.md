@@ -1,7 +1,7 @@
 <a href="https://github.com/paulatalim">
-  <img alt="cabecalho" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=header"/>
+  <img alt="cabecalho" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d93a7c&height=120&section=header"/>
 
-  <img alt="boas vindas - typing svg" width=100% src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=35&pause=435&color=ff6fab&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29"/>
+  <img alt="boas vindas - typing svg" width=100% src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=35&pause=435&color=d93a7c&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29"/>
 </a>
 
 #
@@ -78,5 +78,5 @@
 
 <!-- Rodapé -->
 <a href="https://github.com/paulatalim">
-  <img alt="rodape" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6fab&height=120&section=footer"/>
+  <img alt="rodape" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d93a7c&height=120&section=footer"/>
 </a>
