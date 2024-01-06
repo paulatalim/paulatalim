@@ -7,14 +7,16 @@
 #
 
 <!--Sub-titulo -->
-<h3 align="center"> Estudante no 4º período de Engenharia de Computação da PUC Minas.</h3>
+<h3 align="center"> Estudante no 5º período de Engenharia de Computação da PUC Minas.</h3>
 
 <!--Breve descricao sobre mim -->
+- 🥇 - Fui Destaque Acadêmico no 3° período do curso de Engenharia de Computação
+
 - 👩‍🏫 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
 
 - 📚 - Já estudei as matérias de Desenvolvimento de Interfaces WEB e Algoritmos e Estrutura de Dados l, ll e lll;
 
-- 📕 - Atualmente estou me aprofundando em Java e aprendendo Banco de Dados;
+- 📕 - Atualmente estou me aprofundando em Java e aprendendo React Native;
 
 - 🎯 - Estou a procura de experiência profissional na área de desenvolvimento.
 
