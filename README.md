@@ -7,7 +7,7 @@
 #
 
 <!--Sub-titulo -->
-<h3 align="center"> Estudante no 5º período de Engenharia de Computação da PUC Minas.</h3>
+<h3 align="center"> Estudante no 6º período de Engenharia de Computação da PUC Minas.</h3>
 
 <!--Breve descricao sobre mim -->
 - 🥇 - Fui Destaque Acadêmico no 3° período do curso de Engenharia de Computação
