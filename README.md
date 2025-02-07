@@ -16,7 +16,7 @@
 
 - 🏢 - Participo do projeto Ajuda-Ai da Agência Experimental de Software;
 
-- 🎯 - Procuro experiencia na Área Mobile ou em Java.
+- 🎯 - Procuro experiencia na área mobile ou em Java.
 
 ![Linear Gradient](./assets/lineBar.png)
 
