@@ -7,14 +7,16 @@
 #
 
 <!--Sub-titulo -->
-<h3 align="center"> Estudante no 6º período de Engenharia de Computação da PUC Minas.</h3>
+<h3 align="center"> Estudante no 7º período de Engenharia de Computação da PUC Minas.</h3>
 
-<!--Breve descricao sobre mim -->
-- 🥇 - Fui Destaque Acadêmico no 3° período do curso de Engenharia de Computação
+<!-- Descricao -->
+- 🥇 - Fui Destaque Acadêmico no 3° período do curso de Engenharia de Computação;
 
 - 👩‍🏫 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
 
-- 🏢 - Participo do projeto Ajuda-Ai da Agência Experimental de Software
+- 🏢 - Participo do projeto Ajuda-Ai da Agência Experimental de Software;
+
+- 🎯 - Procuro experiencia na Área Mobile ou em Java.
 
 ![Linear Gradient](./assets/lineBar.png)
 
