@@ -14,7 +14,7 @@
 
 - 👩‍🏫 - Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
 
-- 🏢 - Engenheira de Software Trainee na Levty
+- 🏢 - Engenheira de Software Trainee na Levty;
 
 - 🎯 - Procuro experiência na área de desenvolvimento mobile ou em Java.
 
