@@ -10,13 +10,13 @@
 <h3 align="center"> Estudante no 9º período de Engenharia de Computação da PUC Minas.</h3>
 
 <!-- Descricao -->
-- 🥇 - Fui Destaque Acadêmico no 3° período do curso de Engenharia de Computação;
+- 🥇 - Destaque Acadêmico no 3° período do curso de Engenharia de Computação;
 
-- 👩‍🏫 - Fui Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
+- 👩‍🏫 - Monitora de Algoritmos e Estrutura de Dados l na PUC Minas no 2° período;
 
-- 🏢 - Sou Engenheira de Software Trainee na Levty
+- 🏢 - Engenheira de Software Trainee na Levty
 
-- 🎯 - Procuro experiencia na área de desenvolvimento mobile ou em Java.
+- 🎯 - Procuro experiência na área de desenvolvimento mobile ou em Java.
 
 ![Linear Gradient](./assets/lineBar.png)
 
