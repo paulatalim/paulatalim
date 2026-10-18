@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=25&pause=435&color=00ffff&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29"/>
     <source media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=25&pause=435&color=FF079F&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29"/>
-    <img alt="github contribution grid snake animation" src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=25&pause=435&color=FF079F&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29"/>
+    <img alt="github contribution grid snake animation" width="100%" src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=25&pause=435&color=FF079F&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Paula.;Seja+bem+vindo+:%29"/>
   </picture>
 </a>
 
@@ -46,7 +46,7 @@ Gosto de aprender, resolver problemas e construir soluções de software. 🚀
         srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=paulatalim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
       />
-      <img loading="lazy" height="200" alt="quadro de estatus" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" width="50%" alt="quadro de estatus" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulatalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </picture>
     <!-- Quadro de linguagens mais usadas -->
     <picture>
@@ -58,13 +58,12 @@ Gosto de aprender, resolver problemas e construir soluções de software. 🚀
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=buefy#gh-light-mode-only"
         media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)" 
       />
-      <img loading="lazy" height="200" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical"/>
+      <img loading="lazy" width="31%" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatalim&layout=compact&langs_count=7&theme=radical"/>
     </picture>
   </a>
 </div>
 
-<!-- --- -->
-![Linear Gradient](./assets/pinkLine.png)
+<img loading="lazy" width="100%" alt="quadro de linguagens mais usadas" src="./assets/pinkLine.png"/>
 
 ### 🎓 Formação e experiências
 
@@ -74,8 +73,7 @@ Gosto de aprender, resolver problemas e construir soluções de software. 🚀
 - Monitora de Algoritmos e Estruturas de Dados I • **PUC Minas** • Início: 01/08/2022 - Fim: 31/12/2022
 - Destaque acadêmico • **PUC Minas** • 1º semestre de 2023
 
-<!-- --- -->
-![Linear Gradient](./assets/pinkLine.png)
+<img loading="lazy" width="100%" alt="quadro de linguagens mais usadas" src="./assets/pinkLine.png"/>
 
 ### 📫 Contatos
 
